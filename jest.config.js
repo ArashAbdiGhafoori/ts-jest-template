@@ -5,4 +5,5 @@ module.exports = {
   testEnvironment: "jsdom",
   testRegex: "./*\\.test?\\.ts$",
   moduleFileExtensions: ["ts", "js"],
+  coverageReporters: ["json-summary", "text", "lcov"],
 };
