@@ -1,5 +1,4 @@
-import { multiply, subtract } from "./untestedFunctions";
-import { sum, divide } from "./testedFunctions";
+import { sum, divide, subtract, multiply } from "./functions";
 
 export function average(x: number, y: number){
     let r = sum(x, y);
