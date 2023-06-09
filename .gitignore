@@ -1,2 +1,5 @@
 /node_modules/*
 /out/*
+coverage/lcov-report/*
+coverage/coverage-summary.json
+coverage/lcov.info

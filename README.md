@@ -4,7 +4,8 @@
     </b>
 </h1>
 
-<p align="center">A template for ts-jest that works on local and github workflow.</p>
+<p align="center">A template for ts-jest that works on local unit test and github workflow test.</p>
+<br />
 
 <div align="center">
 

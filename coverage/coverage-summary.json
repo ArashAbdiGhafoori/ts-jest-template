@@ -1,4 +1,0 @@
-{"total": {"lines":{"total":15,"covered":15,"skipped":0,"pct":100},"statements":{"total":15,"covered":15,"skipped":0,"pct":100},"functions":{"total":6,"covered":6,"skipped":0,"pct":100},"branches":{"total":0,"covered":0,"skipped":0,"pct":100},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
-,"D:\\A R A S H\\W o r k\\Programming\\JS\\ts-jest-template\\src\\functions.ts": {"lines":{"total":8,"covered":8,"skipped":0,"pct":100},"functions":{"total":4,"covered":4,"skipped":0,"pct":100},"statements":{"total":8,"covered":8,"skipped":0,"pct":100},"branches":{"total":0,"covered":0,"skipped":0,"pct":100}}
-,"D:\\A R A S H\\W o r k\\Programming\\JS\\ts-jest-template\\src\\index.ts": {"lines":{"total":7,"covered":7,"skipped":0,"pct":100},"functions":{"total":2,"covered":2,"skipped":0,"pct":100},"statements":{"total":7,"covered":7,"skipped":0,"pct":100},"branches":{"total":0,"covered":0,"skipped":0,"pct":100}}
-}
