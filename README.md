@@ -57,7 +57,15 @@ This template uses following:
 To use it run:
 
 ```bash
-$ git clone https://github.com/ArashAbdiGhafoori/ts-jest-template
+$ git clone https://github.com/ArashAbdiGhafoori/ts-jest-template <your-directory-name>
+```
+Move to directory:
+```bash
+$ cd <your-directory-name>
+```
+Install requirements:
+```bash
+$ npm install
 ```
 <br />
 
